@@ -1,0 +1,241 @@
+.glavni{
+    width: 1200px;
+    height: 1400px;
+   /* background-color: orange;*/
+    margin: auto;
+}
+.prvired{
+    width: 1200px;
+    height: 800px;
+    margin-bottom: 50px;
+   /* background-color: black;*/
+}
+.drugired{
+    width: 1200px;
+    height: 550px;
+   /* background-color: blue;*/
+}
+.levi{
+    width: 550px;
+    height: 800px;
+    margin-right: 50px;
+    float: left;
+    background-color: white;
+
+}
+.srednji{
+    width: 275px;
+    height: 800px;
+    margin-right: 50px;
+    float: left;
+   /* background-color: plum;*/
+}
+.desni{
+    width: 275px;
+    height: 800px;
+
+    float: left;
+    background-color: rgb(99, 93, 96);
+}
+.gornji{
+    width: 275px;
+    height: 375px;
+    margin-bottom: 50px;
+   /* background-color: darkslategray;*/
+}
+.donji{
+    width: 275px;
+    height: 375px;
+
+ /*   background-color: rgb(103, 79, 149);*/
+}
+.prvidrugired{
+    width: 350px;
+    height: 550px;
+    margin-right: 75px;
+   float: left;
+   /* background-color: red;*/
+}
+.drugireddrugired{
+    width: 350px;
+    height: 550px;
+    margin-right: 75px;
+   float: left;
+    /*background-color: rgb(60, 159, 111);*/
+
+}
+.trecireddrugired{
+    width: 350px;
+    height: 550px;
+    
+   float: left;
+    /*background-color: rgb(188, 214, 57);*/
+
+}
+.levigornji{
+    width:  550px;
+    height: 400px;
+    background-color: black;
+
+}
+img{
+    width: 550px;
+    height: 400px;
+}
+.levidonji{
+    width:  550px;
+    height: 400px;
+    background-color: rgb(20, 92, 160);
+}
+.naslovlevidonji{
+    width:  550px;
+    height: 150px;
+    background-color: rgb(20, 92, 160);
+
+}
+h2{
+    padding-top: 45px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+a.dugme,a.dugme:visited{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #0A7C9A;
+   
+    cursor: pointer;
+    border-radius: 2px;
+    transition: background-color 0.3s ease;
+    color: white;
+
+}
+a.dugme:hover,a.dugme:active{
+    color: white;
+    background-color: #023a4a;
+
+}
+.desnidonji{
+    width:  550px;
+    height: 250px;
+    background-color:rgb(20, 92, 160);
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+
+}
+.srednjigornji{
+    width: 275px;
+    height: 240px;
+    background-color: black;
+}
+#slikazvezda{
+    width: 275px;
+    height: 260px;
+}
+.srednjitekst{
+    width: 275px;
+    height:152px ;
+    background-color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+
+
+}
+#naslovzazvezdu{
+    color: black;
+}
+.prvideodonjeg{
+    width: 275px;
+    height: 240px;
+    background-color: black;
+
+}
+.donjideodonjeg{
+    width: 275px;
+    height:152px;
+    background-color: white;
+  font-size: 10px;
+  margin-top: 5px;
+
+}
+.prviudrugomreduslika{
+    width: 100%;
+    height: 70%;
+    background-color: black;
+}
+#naneli{
+    width: 100%;
+    height: 100%;
+}
+.prviudrugomredutekst{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+}
+.drugiudrugomreduslika{
+    width: 100%;
+    height: 70%;
+    background-color: black;
+
+}
+#partizan{
+    width: 100%;
+    height: 100%;
+
+}
+.drugiudrugomredutekst{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    
+}
+.treciudrugomreduslika{
+    width: 100%;
+    height: 70%;
+    background-color: black;
+
+}
+.treciudrugomredutekst{
+    width: 100%;
+    height: 30%;
+    background-color: white
+}
+#nolemuke{
+    width: 100%;
+    height: 100%;
+}
+.euroleague{
+    height: 750px;
+    width: 275px;
+    background-color: aquamarine;
+}
+#euroleague{
+    height: 750px;
+    width: 275px;
+
+}
+.drustvenemreze{
+    width: 275px;
+    height: 50px;
+    background-color: red;
+}
+.container {
+    width: 275px;
+    height: 50px;
+  }
+  
+  .button {
+    width: 55px; /* 275px/5 buttons = 55px per button */
+    height: 50px;
+    float: left;
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+  }

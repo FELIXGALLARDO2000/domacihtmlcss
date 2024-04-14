@@ -1,0 +1,85 @@
+.glavni{
+    width: 800px;
+    height: 800px;
+    background-color: transparent;
+}
+.diva{
+    height: 800px;
+    width: 200px;
+    float: left;
+    background-color: pink;
+}
+.glavniDesno{
+    height: 800px;
+    width: 600px;
+    float: left;
+    background-color: transparent;
+}
+.glavniDesnoGore{
+    height: 400px;
+    width: 600px;
+    float: left;
+    background-color: red;
+}
+.glavniDesnoDole{
+    height: 400px;
+    width: 600px;
+    float: left;
+    background-color: green;
+}
+.glavniDesnoGoreGore{
+    height: 200px;
+    width: 600px;
+    background-color: yellow;
+}
+.divb{
+    height: 200px;
+    width: 200px;
+    float: left;
+    background-color: gray;
+}
+.divc{
+    height: 200px;
+    width: 400px;
+    float: left;
+    background-color: rgb(123, 177, 16);
+}
+.divd{
+    height: 200px;
+    width: 600px;
+    background-color: gray;
+}
+.glavniDesnoDoleLevo{
+    height: 400px;
+    width: 400px;
+    float: left;
+    background-color: rgb(129, 50, 181);
+}
+.divf{
+    height: 400px;
+    width: 200px;
+    float: left;
+    background-color:gray;
+}
+.glavniDesnoDoleLevoDole{
+    height: 200px;
+    width: 400px;
+    background-color:red;
+}
+.dive{
+    height: 200px;
+    width: 400px;
+    background-color:gray;
+}
+.divg{
+    height: 200px;
+    width: 200px;
+    float: left;
+    background-color:gray;
+}
+.divh{
+    height: 200px;
+    width: 200px;
+    float: left;
+    background-color: rgb(123, 177, 16);
+}
